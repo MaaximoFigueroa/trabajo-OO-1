@@ -12,8 +12,8 @@ class Juego
     public static void Main()
     {
         // No modificar desde aquí ...
-        Personaje sacerdote = new Sacerdote("Samson", 30, 5);
-        Personaje barbaro = new Barbaro("Dave", 30, 7, 10);
+        Personaje sacerdote = new Sacerdote("Michael", 30, 5);
+        Personaje barbaro = new Barbaro("Justin", 30, 7, 10);
         Equipo tunica = new Armadura(5);
         Equipo hacha = new Arma(6);
 
